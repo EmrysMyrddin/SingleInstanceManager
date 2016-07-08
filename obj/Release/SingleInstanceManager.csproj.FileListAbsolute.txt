@@ -1,0 +1,4 @@
+c:\users\vcoca\documents\visual studio 2015\Projects\ScreenPowerNotifier\SingleInstanceManager\bin\Release\SingleInstanceManager.dll
+c:\users\vcoca\documents\visual studio 2015\Projects\ScreenPowerNotifier\SingleInstanceManager\bin\Release\SingleInstanceManager.pdb
+c:\users\vcoca\documents\visual studio 2015\Projects\ScreenPowerNotifier\SingleInstanceManager\obj\Release\SingleInstanceManager.dll
+c:\users\vcoca\documents\visual studio 2015\Projects\ScreenPowerNotifier\SingleInstanceManager\obj\Release\SingleInstanceManager.pdb

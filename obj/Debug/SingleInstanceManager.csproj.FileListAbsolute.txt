@@ -1,0 +1,5 @@
+c:\users\vcoca\documents\visual studio 2015\Projects\ScreenPowerNotifier\SingleInstanceManager\bin\Debug\SingleInstanceManager.dll
+c:\users\vcoca\documents\visual studio 2015\Projects\ScreenPowerNotifier\SingleInstanceManager\bin\Debug\SingleInstanceManager.pdb
+c:\users\vcoca\documents\visual studio 2015\Projects\ScreenPowerNotifier\SingleInstanceManager\obj\Debug\SingleInstanceManager.dll
+c:\users\vcoca\documents\visual studio 2015\Projects\ScreenPowerNotifier\SingleInstanceManager\obj\Debug\SingleInstanceManager.pdb
+c:\users\vcoca\documents\visual studio 2015\Projects\ScreenPowerNotifier\SingleInstanceManager\obj\Debug\SingleInstanceManager.csprojResolveAssemblyReference.cache
